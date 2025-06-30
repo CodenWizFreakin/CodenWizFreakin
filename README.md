@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![de54c77267d3ec567f75fe9efcc0d7cd (1) (1)](https://github.com/user-attachments/assets/6a433581-cc9c-4944-ab98-bbfb86c7a09d)
 
 <div align="center">
         <img alt="Visitor Stats" 
