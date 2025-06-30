@@ -3,7 +3,7 @@
 
 <div align="center">
         <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<CodenWizFreakin>"/>  
+            src="https://widgetbite.com/stats/CodenWizFreakin"/>  
     </div>
 
 <!--
